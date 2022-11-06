@@ -44,6 +44,13 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e33d110c7c7272250cc6ea:categories:LINHA GOSPEL:/linha-gospel"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
