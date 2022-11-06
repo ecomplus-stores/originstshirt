@@ -51,6 +51,12 @@
       "collection_id": "61e33d110c7c7272250cc6ea:categories:LINHA GOSPEL:/linha-gospel"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
