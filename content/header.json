@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Aproveite todas nossas novidades",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#b5b0b0",
+    "color": "#100303"
   },
   "contacts_stripe": {
     "pages": [
@@ -18,7 +20,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/t-shirts?POPULARES",
+      "/linha-gospel?LINHA GOSPEL"
+    ],
     "random": 6,
     "full_width": false
   },
