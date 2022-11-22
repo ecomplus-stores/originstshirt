@@ -31,7 +31,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "offers"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -45,7 +45,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "61e33d110c7c7272250cc6ea:categories:LINHA GOSPEL:/linha-gospel"
