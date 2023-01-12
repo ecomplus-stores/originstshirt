@@ -38,19 +38,13 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "61e33d110c7c7272250cc6ea:categories:LINHA GOSPEL:/linha-gospel"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     },
     {
       "type": "brands-carousel",
