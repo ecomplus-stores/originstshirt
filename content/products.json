@@ -12,7 +12,7 @@
       "type": "product-block",
       "enabled": true,
       "size_guide": {
-        "image": "/img/uploads/medidas-de-camisetas-origins.png",
+        "image": "template/public/img/uploads/medidas-de-camisetas-origins.png",
         "title": ""
       }
     },
