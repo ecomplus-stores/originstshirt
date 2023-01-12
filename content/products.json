@@ -5,16 +5,16 @@
       "enabled": true
     },
     {
+      "type": "related-products",
+      "title": "Produtos relacionados"
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
         "image": "/img/uploads/medidas-de-camisetas-origins.png",
         "title": ""
       }
-    },
-    {
-      "type": "related-products",
-      "title": "Produtos relacionados"
     },
     {
       "type": "recommended-products",
